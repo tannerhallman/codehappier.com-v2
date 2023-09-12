@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'Code Happier Blog',
   author: 'Tanner Hallman',
   headerTitle: 'Code Happier Blog',
-  description: 'I created this blog to share my experience building a SaaS product',
+  description: 'A blog to share my experience building and scaling a SaaS product',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://codehappier.com',
