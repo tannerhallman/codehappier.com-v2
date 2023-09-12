@@ -9,7 +9,7 @@ const siteMetadata = {
   siteUrl: 'https://codehappier.com',
   siteRepo: 'https://github.com/tannerhallman/codehappier.com-v2',
   siteLogo: '/static/images/logo.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/welcome-to-my-my-blog.png',
   email: 'tanner.hallman@gmail.com',
   github: 'https://github.com/tannerhallman',
   linkedin: 'https://www.linkedin.com/in/tannerhallman/',
