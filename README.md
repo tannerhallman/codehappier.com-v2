@@ -1,4 +1,4 @@
-![tailwind-nextjs-banner](/public/static/images/welcome-to-my-blog.png)
+![Welcome Banner](/public/static/images/welcome-to-my-blog.png)
 
 # Code Happier Blog
 
