@@ -2,7 +2,7 @@
 
 # Code Happier Blog
 
-This is my personal blog where I write about my experiences as a software engineer. I write about topics that I find interesting and that I think will be useful to others. I hope you find something useful here.
+Hey I am (Tanner Hallman)[https://tannerhallman.com]. This is my personal blog where I write about my experiences as a software engineer. I write about topics that I find interesting and that I think will be useful to others. I hope you find something useful here.
 
 ## Tech Stack
 
